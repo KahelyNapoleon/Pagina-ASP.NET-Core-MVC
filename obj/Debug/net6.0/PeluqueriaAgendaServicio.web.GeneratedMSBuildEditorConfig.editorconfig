@@ -10,6 +10,8 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PeluqueriaAgendaServicio.web
 build_property.RootNamespace = PeluqueriaAgendaServicio.web
 build_property.ProjectDir = C:\Users\Aguir\OneDrive\Escritorio\Proyecto Peluqueria ASP.NET Core MVC\PeluqueriaAgendaServicio\PeluqueriaAgendaServicio.web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
@@ -146,22 +148,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Aguir/OneDrive/Escritorio/Proyecto Peluqueria ASP.NET Core MVC/PeluqueriaAgendaServicio/PeluqueriaAgendaServicio.web/Views/TiposServicios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb3NTZXJ2aWNpb3NcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Aguir/OneDrive/Escritorio/Proyecto Peluqueria ASP.NET Core MVC/PeluqueriaAgendaServicio/PeluqueriaAgendaServicio.web/Views/Turnos/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybm9zXENyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Aguir/OneDrive/Escritorio/Proyecto Peluqueria ASP.NET Core MVC/PeluqueriaAgendaServicio/PeluqueriaAgendaServicio.web/Views/Turnos/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybm9zXERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Aguir/OneDrive/Escritorio/Proyecto Peluqueria ASP.NET Core MVC/PeluqueriaAgendaServicio/PeluqueriaAgendaServicio.web/Views/Turnos/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybm9zXERldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Aguir/OneDrive/Escritorio/Proyecto Peluqueria ASP.NET Core MVC/PeluqueriaAgendaServicio/PeluqueriaAgendaServicio.web/Views/Turnos/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybm9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Aguir/OneDrive/Escritorio/Proyecto Peluqueria ASP.NET Core MVC/PeluqueriaAgendaServicio/PeluqueriaAgendaServicio.web/Views/Turnos/Index.cshtml]

@@ -13,6 +13,130 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\balayage.jpg",
+      "PackagePath": "staticwebassets\\fotos\\balayage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\blonde.jpg",
+      "PackagePath": "staticwebassets\\fotos\\blonde.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\bronde.jpeg",
+      "PackagePath": "staticwebassets\\fotos\\bronde.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\color.jpg",
+      "PackagePath": "staticwebassets\\fotos\\color.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\corte-color.jpg",
+      "PackagePath": "staticwebassets\\fotos\\corte-color.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\corte.jpg",
+      "PackagePath": "staticwebassets\\fotos\\corte.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\deco-global.jpeg",
+      "PackagePath": "staticwebassets\\fotos\\deco-global.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\fondo-body.jpg",
+      "PackagePath": "staticwebassets\\fotos\\fondo-body.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\foto1.jpg",
+      "PackagePath": "staticwebassets\\fotos\\foto1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\logo.jpg",
+      "PackagePath": "staticwebassets\\fotos\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\london-efec.jpg",
+      "PackagePath": "staticwebassets\\fotos\\london-efec.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\marcas\\bbcos.jpg",
+      "PackagePath": "staticwebassets\\fotos\\marcas\\bbcos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\marcas\\framesi.jpg",
+      "PackagePath": "staticwebassets\\fotos\\marcas\\framesi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\marcas\\frilaip.jpg",
+      "PackagePath": "staticwebassets\\fotos\\marcas\\frilaip.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\marcas\\hadibell.jpg",
+      "PackagePath": "staticwebassets\\fotos\\marcas\\hadibell.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\marcas\\issue.jpg",
+      "PackagePath": "staticwebassets\\fotos\\marcas\\issue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\marcas\\loreal.png",
+      "PackagePath": "staticwebassets\\fotos\\marcas\\loreal.png"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\marcas\\system3.jpg",
+      "PackagePath": "staticwebassets\\fotos\\marcas\\system3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\marcas\\tonaleg.jpg",
+      "PackagePath": "staticwebassets\\fotos\\marcas\\tonaleg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\marcas\\tonaleg.png",
+      "PackagePath": "staticwebassets\\fotos\\marcas\\tonaleg.png"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\marcas\\wella.jpg",
+      "PackagePath": "staticwebassets\\fotos\\marcas\\wella.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\pelu11.jpeg",
+      "PackagePath": "staticwebassets\\fotos\\pelu11.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\pelu2.jpeg",
+      "PackagePath": "staticwebassets\\fotos\\pelu2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\pelu3.jpeg",
+      "PackagePath": "staticwebassets\\fotos\\pelu3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\pelu4.jpeg",
+      "PackagePath": "staticwebassets\\fotos\\pelu4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\pelu5.jpeg",
+      "PackagePath": "staticwebassets\\fotos\\pelu5.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\pelu5A.jpeg",
+      "PackagePath": "staticwebassets\\fotos\\pelu5A.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\pelu6.jpeg",
+      "PackagePath": "staticwebassets\\fotos\\pelu6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\pelu7.jpeg",
+      "PackagePath": "staticwebassets\\fotos\\pelu7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\pelu9.jpeg",
+      "PackagePath": "staticwebassets\\fotos\\pelu9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\fotos\\retoque-crec-shampcolor.jpg",
+      "PackagePath": "staticwebassets\\fotos\\retoque-crec-shampcolor.jpg"
+    },
+    {
       "Id": "C:\\Users\\Aguir\\OneDrive\\Escritorio\\Proyecto Peluqueria ASP.NET Core MVC\\PeluqueriaAgendaServicio\\PeluqueriaAgendaServicio.web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
